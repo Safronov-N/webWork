@@ -13,3 +13,6 @@ footer {
 h3{
     color: black;
 }
+#content{
+    padding-bottom: 64px;
+}
